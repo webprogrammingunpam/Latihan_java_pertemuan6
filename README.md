@@ -44,3 +44,39 @@
 ![Mumu](image/20.png)
 ## 21. 
 ![Mumu](image/21.png)
+## 22. 
+![Mumu](image/22.png)
+## 23. 
+![Mumu](image/23.png)
+## 24. 
+![Mumu](image/24.png)
+## 25. 
+![Mumu](image/25.png)
+## 26. 
+![Mumu](image/26.png)
+## 27. 
+![Mumu](image/27.png)
+## 28. 
+![Mumu](image/28.png)
+## 29. 
+![Mumu](image/29.png)
+## 30. 
+![Mumu](image/30.png)
+## 31. 
+![Mumu](image/31.png)
+## 32. 
+![Mumu](image/32.png)
+## 33. 
+![Mumu](image/33.png)
+## 34. 
+![Mumu](image/34.png)
+## 35. 
+![Mumu](image/35.png)
+## 36. 
+![Mumu](image/36.png)
+## 37. 
+![Mumu](image/37.png)
+## 38. 
+![Mumu](image/38.png)
+
+
