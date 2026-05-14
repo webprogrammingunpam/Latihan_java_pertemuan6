@@ -78,6 +78,6 @@
 ![Mumu](image/37.png)
 ## 38. 
 ![Mumu](image/38.png)
-## 39. Menyatukan input data kontak dan  lihat Data konta di Latihan_Pertemuan7
+## 39. Menyatukan input data kontak dan  lihat Data kontak di Latihan_Pertemuan7
 
 
